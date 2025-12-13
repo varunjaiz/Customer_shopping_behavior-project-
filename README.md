@@ -52,7 +52,7 @@ This project analyses a retail-shopping dataset to uncover insights into custome
 
 ---
 
-## 🎯 Key Insights (Sample / Hypothetical — update based on your results)
+## 🎯 Key Insights (Sample / Hypothetical)
 
 - Which product categories generate the most revenue  
 - Customer segments by age/gender/location and their spending habits  
